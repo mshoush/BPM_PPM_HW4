@@ -1,5 +1,5 @@
 # BPM_PPM_HW4
-This project is a solution for [Homework4](https://courses.cs.ut.ee/2021/pm/spring/uploads/Main/2021Homework4.pdf) of the [Business Process Mining course](https://courses.cs.ut.ee/2021/pm/spring/Main/HomePage) at the [University of Tartu, Estonia](https://cs.ut.ee/et). 
+This project is a solution for [Homework4](https://courses.cs.ut.ee/2021/pm/spring/uploads/Main/2021Homework4.pdf) of the [Business Process Mining course](https://courses.cs.ut.ee/2021/pm/spring/Main/HomePage) at the [University of Tartu, Estonia](https://cs.ut.ee/et). This solution is a modification for an original framework that can be found in this [repo](https://github.com/Mcamargo85/predictive-monitoring-benchmark)
 
 # Dataset: 
 
