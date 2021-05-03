@@ -9,7 +9,7 @@ This project is a solution for [Homework4](https://courses.cs.ut.ee/2021/pm/spri
                   
 * To reproduce results for this project you need to go inside the corresponding folder, and then run the following commands: 
 
-    1. Data Preprocessing:
+    1. Data preprocessing:
           
                                 run the notebook "HW4" inside the preprocessing folder
                                
